@@ -10,6 +10,8 @@
 
 > แนวคิดหลัก: **แค่เปิดใช้งาน Software ผ่าน Browser หรือ App ก็สามารถใช้งานได้ทันที**
 
+<img width="560" height="453" alt="image" src="https://github.com/user-attachments/assets/341036bf-7151-44a3-be68-41d546176d71" />
+
 ### บทบาทของแต่ละฝ่าย
 
 **ผู้ใช้งาน (End User / Customer)**
