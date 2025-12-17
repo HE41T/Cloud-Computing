@@ -17,7 +17,7 @@
 **Cloud Computing** คือการให้บริการ **Computing Resource และ Services ผ่าน Internet** ในรูปแบบ On-Demand และ Pay-as-you-go
 
 * ผู้ใช้ไม่ต้องลงทุน Hardware เอง
-* ผู้ให้บริการจัดการ Infrastructure, Platform, และ Software
+* ผู้ให้บริการจัดการ Infrastructure Platform และ Software
 * Resource สามารถ Scale ได้ทันทีตามต้องการ
 
 <img width="560" height="346" alt="image" src="https://github.com/user-attachments/assets/f652b406-9fd5-43d0-88f1-eaf055f999b0" />
