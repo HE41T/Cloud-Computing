@@ -10,6 +10,8 @@
 
 > แนวคิดหลัก: **Focus ที่การพัฒนา Application โดยไม่ต้องจัดการ Infrastructure**
 
+<img width="560" height="427" alt="image" src="https://github.com/user-attachments/assets/80ff48bb-61f8-412c-b4fe-c1296ae79027" />
+
 ### บทบาทของแต่ละฝ่าย
 
 **ผู้ใช้งาน (Developer / Customer)**
