@@ -10,6 +10,8 @@
 
 > แนวคิดหลัก: **เลือกใช้ Workload บน Cloud ที่เหมาะสมที่สุดตามความต้องการด้าน Security, Performance และ Cost**
 
+<img width="560" height="253" alt="image" src="https://github.com/user-attachments/assets/cfaa5a61-9874-4245-b197-59a84c391f77" />
+
 ---
 
 ## 2. ลักษณะของ Hybrid Cloud
@@ -18,8 +20,6 @@
 * **Flexibility:** ย้าย Workload ระหว่าง Cloud ได้ตามต้องการ
 * **Optimized Resource:** ใช้ Resource อย่างคุ้มค่า (เช่น Sensitive Data บน Private Cloud, Public Apps บน Public Cloud)
 * **Integration Required:** ต้องมี Network / Security / Management Integration ระหว่าง Cloud
-
-<img width="560" height="253" alt="image" src="https://github.com/user-attachments/assets/cfaa5a61-9874-4245-b197-59a84c391f77" />
 
 ---
 
