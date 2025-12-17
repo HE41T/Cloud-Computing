@@ -15,6 +15,7 @@
 * มีหลาย Username / Password
 * เปลี่ยนรหัสผ่านหลายที่
 * IT ต้องปิดบัญชีทีละระบบเมื่อพนักงานออก
+<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/38e94f49-3751-459b-ba57-e290df7bfc74" />
 
 ผลลัพธ์คือ:
 
