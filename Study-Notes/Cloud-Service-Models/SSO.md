@@ -4,9 +4,9 @@
 
 **SSO (Single Sign-On)** คือระบบที่ให้ผู้ใช้ **ล็อกอินเพียงครั้งเดียว** แล้วสามารถเข้าใช้งานหลายระบบได้โดยไม่ต้องกรอกรหัสผ่านซ้ำ
 
-<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/38e94f49-3751-459b-ba57-e290df7bfc74" />
-
 > แนวคิดหลัก: *Authenticate ครั้งเดียว ใช้ได้หลายบริการ*
+
+<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/38e94f49-3751-459b-ba57-e290df7bfc74" />
 
 ---
 
