@@ -2,3 +2,5 @@
 - ข้อมูลเกี่ยวกับ Cloud-Computing ฉบับ เข้าใจเอง
 
 - รุ่นเริ่มต้นใช้ AI ในการสรุปข้อมูลให้อ่านได้ง่ายและเข้าใจเบื้องต้น
+
+- ข้อมูลส่วนใหญ่นำมาจาก URL : https://www.tutorialspoint.com/cloud_computing/index.htm
