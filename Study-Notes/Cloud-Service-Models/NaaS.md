@@ -141,6 +141,8 @@ NaaS เปลี่ยนแนวคิดการทำ Network จาก
 
 **Mobile NaaS** คือรูปแบบหนึ่งของ NaaS ที่ใช้เครือข่ายมือถือ (4G / 5G) เป็นโครงสร้างหลัก
 
+<img width="560" height="392" alt="image" src="https://github.com/user-attachments/assets/4c8ed756-09f4-4d28-8e77-475bc5b1c933" />
+
 ### จุดเด่นของ Mobile NaaS
 
 * ไม่ต้องพึ่งพาสาย LAN
