@@ -8,9 +8,9 @@
 
 **Community Cloud** คือรูปแบบ Cloud Computing ที่ Infrastructure ถูกแชร์ระหว่างองค์กรที่มีความต้องการคล้ายกัน (เช่น Security, Compliance, Industry) โดยผู้ใช้งานหลายองค์กรร่วมกันใช้ Resource แต่ไม่เปิดให้สาธารณะ
 
-<img width="560" height="437" alt="image" src="https://github.com/user-attachments/assets/7fa8a159-bfe0-463c-b118-2bc5bf4e4447" />
-
 > แนวคิดหลัก: **แชร์ Resource ระหว่างกลุ่มองค์กรที่มี Common Requirements เพื่อประหยัดค่าใช้จ่ายและสร้าง Collaboration**
+
+<img width="560" height="437" alt="image" src="https://github.com/user-attachments/assets/7fa8a159-bfe0-463c-b118-2bc5bf4e4447" />
 
 ---
 
