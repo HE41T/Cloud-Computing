@@ -3,6 +3,7 @@
 ## 1. SSO คืออะไร
 
 **SSO (Single Sign-On)** คือระบบที่ให้ผู้ใช้ **ล็อกอินเพียงครั้งเดียว** แล้วสามารถเข้าใช้งานหลายระบบได้โดยไม่ต้องกรอกรหัสผ่านซ้ำ
+<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/38e94f49-3751-459b-ba57-e290df7bfc74" />
 
 > แนวคิดหลัก: *Authenticate ครั้งเดียว ใช้ได้หลายบริการ*
 
@@ -15,7 +16,6 @@
 * มีหลาย Username / Password
 * เปลี่ยนรหัสผ่านหลายที่
 * IT ต้องปิดบัญชีทีละระบบเมื่อพนักงานออก
-<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/38e94f49-3751-459b-ba57-e290df7bfc74" />
 
 ผลลัพธ์คือ:
 
@@ -37,6 +37,7 @@
 ---
 
 ## 4. องค์ประกอบหลักของ SSO
+<img width="560" height="407" alt="image" src="https://github.com/user-attachments/assets/128b7787-6240-4545-afa6-ce06ada7fbc3" />
 
 ```
 User → Identity Provider (IdP) → Application
