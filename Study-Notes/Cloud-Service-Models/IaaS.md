@@ -10,6 +10,8 @@
 
 > แนวคิดหลัก: **ไม่ต้องซื้อ Hardware เอง แต่ใช้บริการตามต้องการ**
 
+<img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/0e8ed5e8-5285-4d5a-be15-51a2ef58a7ed" />
+
 ### บทบาทของแต่ละฝ่าย
 
 **ผู้ใช้งาน (Customer)**
