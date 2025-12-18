@@ -1,4 +1,4 @@
-<img width="400" height="419" alt="image" src="https://github.com/user-attachments/assets/aee1a6c5-c522-4306-a949-b33634dce79e" /># Virtualization Concept
+# Virtualization Concept
 
 ## ความหมายของ Virtualization
 
